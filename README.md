@@ -42,7 +42,6 @@ HOW TO RUN:
     <li>src/chat/application/MultiThreadChatServer.java</li>
     <li>src/chat/application/MultiThreadChatClient.java</li>
   </ol>
-  </li>  
   <li>Synchronized code:</li>
   <ol>
     <li>src/chattyczar/MultiThreadChatServer.java</li>
