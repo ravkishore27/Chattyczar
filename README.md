@@ -32,12 +32,16 @@ Case 2 :
   EchoClient.java
   
 Case 3:
-  Unsynchronized code:
-    src/chat/application/MultiThreadChatServer.java
-    src/chat/application/MultiThreadChatClient.java
+<ul>
+  <li>Unsynchronized code:
+  <ol>
+    <li>src/chat/application/MultiThreadChatServer.java</li>
+    <li>src/chat/application/MultiThreadChatClient.java</li>
+  </ol>
+  </li>  
   Synchronized code:
     src/chattyczar/MultiThreadChatServer.java
     src/chattyczar/MultiThreadChatClient.java
-
+</ul>
 
 
