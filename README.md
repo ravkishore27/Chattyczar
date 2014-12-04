@@ -34,19 +34,17 @@ HOW TO RUN:
     <li>EchoServer.java</li>
     <li>EchoClient.java</li>
   </ul>
-
+<p>
 <i>Case 3:</i>
 <ul>
-  <li>Unsynchronized code:</li>
-  <ol>
-    <li>src/chat/application/MultiThreadChatServer.java</li>
-    <li>src/chat/application/MultiThreadChatClient.java</li>
-  </ol>
+  <li>Unsynchronized code: </li>
+      &nbsp;&nbsp; -- src/chat/application/MultiThreadChatServer.java
+      &nbsp;&nbsp; -- src/chat/application/MultiThreadChatClient.java
   <li>Synchronized code:</li>
-  <ol>
-    <li>src/chattyczar/MultiThreadChatServer.java</li>
-    <li>src/chattyczar/MultiThreadChatClient.java</li>
-  </ol>
+      &nbsp;&nbsp; -- src/chattyczar/MultiThreadChatServer.java
+      &nbsp;&nbsp; -- src/chattyczar/MultiThreadChatClient.java
+    </ol>
 </ul>
+</p>
 
 
